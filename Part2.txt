@@ -1,0 +1,10 @@
+03783310|AAPL|Apple Inc.|Information Technology|0.06540920104743667
+59491810|MSFT|Microsoft Corporation|Information Technology|0.04610511750359413
+47816010|JNJ|Johnson & Johnson|Health Care|0.02966572658098456
+02313510|AMZN|Amazon.com  Inc.|Consumer Discretionary|0.025615948303488973
+46625H10|JPM|JPMorgan Chase & Co.|Financials|0.02257269825654769
+06050510|BAC|Bank of America Corporation|Financials|0.01923487200896288
+71708110|PFE|Pfizer Inc.|Health Care|0.018324002401728406
+94974610|WFC|Wells Fargo & Company|Financials|0.01794449114090658
+43707610|HD|Home Depot  Inc.|Consumer Discretionary|0.016673080771026152
+91324P10|UNH|UnitedHealth Group Incorporated|Health Care|0.014257633202854524
